@@ -15,3 +15,9 @@ export default () => (
   </React.Fragment>
 );
 ```
+## Installation
+
+```sh
+yarn add react-media
+Copy the content of index.jsx into a local file and import "LoadIf" from it as in the example above.
+```
