@@ -4,7 +4,6 @@ Based off of [React-Media](https://github.com/reacttraining/react-media)
 
 
 ```js
-// @flow
 import React from 'react';
 import LoadIf from './LoadIf';
 
