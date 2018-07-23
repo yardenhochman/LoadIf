@@ -7,4 +7,4 @@ export default () => (
     <LoadIf.Desktop><h2>Desktop Title<h2></LoadIf.Desktop>
     <LoadIf.Portrait><h2>Phone Portrait Title!</h2></LoadIf.Portrait>
   </React.Fragment>
-  );
+);
